@@ -149,7 +149,7 @@ body {
 }
 
 .top__link {
-    background-color: #151515;
+    background-color: #151515d8;
     padding: 23px;
     max-width: 430px;
     width: 100%;
@@ -157,6 +157,7 @@ body {
     text-transform: uppercase;
     font-size: 36px;
     font-weight: 700;
+    
 }
 
 .swiper::after {
